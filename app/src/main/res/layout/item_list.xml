@@ -37,4 +37,5 @@
         android:ellipsize="end"
         android:maxLines="2"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+
 </RelativeLayout>
